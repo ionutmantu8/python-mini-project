@@ -2,6 +2,7 @@ name: Python Checks
 
 on:
   pull_request:
+  push:
 
 jobs:
   python-checks:
